@@ -88,7 +88,3 @@ Sistema para la gestion y calculo de calificaciones de estudiantes.
 - Email: omaruzgonzalez@gmail.com
 - LinkedIn: linkedin.com/in/omar-ramirez-gonzalez
 - Ubicacion: Medellin, Colombia
-
----
-
-*"Sin datos, eres solo otra persona con una opinion." - W. Edwards Deming*
